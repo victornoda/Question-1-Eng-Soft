@@ -1,17 +1,14 @@
-# **1. Introdução ao GitHub**
+# **Introdução ao GitHub**
 
-**O que é GitHub?**
+## **O que é GitHub?**
 
-GitHub é uma plataforma de hospedagem de código-fonte e desenvolvimento colaborativo que utiliza o sistema de controle de versão Git. Através do GitHub,
-desenvolvedores podem colaborar em projetos de forma eficiente, utilizando funcionalidades como controle de versão, issues, pull requests, entre outros.
+GitHub é uma plataforma de hospedagem de código-fonte e desenvolvimento colaborativo que utiliza o sistema de controle de versão Git. Através do GitHub, desenvolvedores podem colaborar em projetos de forma eficiente, utilizando funcionalidades como controle de versão, issues, pull requests, entre outros.
 
-**História e evolução do GitHub**
+## **História e evolução do GitHub**
 
-O GitHub foi fundado em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. Desde sua criação, o GitHub tem evoluído significativamente,
-tornando-se a principal plataforma de hospedagem de código-fonte do mundo. Em 2018, a Microsoft adquiriu o GitHub por US$ 7,5 bilhões, o que permitiu a 
-integração de diversos serviços e a expansão das funcionalidades da plataforma.
+O GitHub foi fundado em 2008 por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon. Desde sua criação, o GitHub tem evoluído significativamente, tornando-se a principal plataforma de hospedagem de código-fonte do mundo. Em 2018, a Microsoft adquiriu o GitHub por US$ 7,5 bilhões, o que permitiu a integração de diversos serviços e a expansão das funcionalidades da plataforma.
 
-**Principais funcionalidades e benefícios**
+## **Principais funcionalidades e benefícios**
 
 	•	Repositórios: Permitem armazenar código-fonte, arquivos e histórico de versões de um projeto.
 	•	Controle de versão com Git: Facilita o rastreamento de alterações no código, possibilitando a colaboração entre múltiplos desenvolvedores.
